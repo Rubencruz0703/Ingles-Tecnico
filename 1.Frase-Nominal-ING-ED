@@ -1,0 +1,101 @@
+-------------------------------------------------------------------------------
+# 📘 Apuntes de Inglés Técnico: Formas No Finitas y Frase Nominal
+
+Este repositorio contiene una guía práctica sobre la interpretación y traducción de formas verbales no finitas (**-ing**, **-ed**, **to**) dentro de la **Frase Nominal Compleja**, basada en textos técnicos de ingeniería y tecnología.
+
+---
+
+## 1. La Terminación "-ING" (Multifuncional) 🛠️
+
+La forma **-ing** es una de las más versátiles. En inglés técnico, es vital recordar que **"nunca" se traduce como "-ado/-ido"** [1].
+
+### A. Función Sustantiva (Gerundio como Núcleo)
+Se traduce como un **sustantivo** o un **infinitivo**.
+*   **Engineering:** Ingeniería [1].
+*   **Water Handling:** Manejo de agua [1].
+*   **Acoustic Signal Processing:** Procesamiento de señales acústicas [1].
+*   **Ejemplo en oración:** *Specifying both the number of protons and... is necessary.* 
+    *   *(Traducción: **Especificar** tanto el número de protones como... es necesario)* [2].
+
+> **Nota:** Solo se traduce como sustantivo puro si hay un determinante antes y la preposición "of" después.
+> *Ejemplo:* *The heating of iron...* (El calentamiento del hierro...) [3].
+
+### B. En Títulos de Manuales o Trabajos
+Se puede traducir de dos formas:
+1.  **Cómo + infinitivo**
+2.  **Sustantivo**
+*   **Installing a Tesla Wall Connector:** Cómo instalar / Instalación de un conector de pared Tesla [4].
+
+### C. Premodificador (Función Adjetiva)
+Va antes del sustantivo núcleo y describe una característica.
+*   **Interesting method:** Método interesante [4].
+*   **Working environment:** Ambiente de trabajo [5].
+*   **Time-consuming method:** Método que consume mucho tiempo [6].
+
+### D. Post-modificador (Después del núcleo)
+Se traduce generalmente como **"que + verbo conjugado"**.
+*   **Equations describing the behaviour...:** Ecuaciones **que describen** el comportamiento... [7].
+*   **Material having a high thermal conductivity:** Material **que tiene** una alta conductividad térmica [7].
+
+### E. Casos con Preposiciones
+*   **By + -ing (Modo):** Se traduce como **"-ando/-endo"** o **"al + infinitivo"**.
+    *   *By rotating the auger:* Rotando el taladro / Al rotar el taladro [8].
+*   **When/On/In + -ing:** Se traduce como **"Al + infinitivo"** o **"Cuando se + verbo"**.
+    *   *When defining rigid body motions...:* Cuando se definen movimientos de cuerpos rígidos... [9].
+
+---
+
+## 2. Pasado Participio ("-ED") 🔧
+
+Suele indicar una acción recibida (pasiva) y generalmente se traduce como **"-ado/-ido"** [10].
+
+*   **The instrument used in...:** El instrumento **usado** en... [10].
+*   **The total charge associated with...:** La carga total **asociada** con... [10].
+*   **Gas-powered cars:** Autos **alimentados/potenciados** por gas [11].
+*   **Hand-made:** Hecho a mano [11].
+
+---
+
+## 3. Comparativa: -ING vs. -ED ⚖️
+
+| Forma -ING (Activa/Proceso) | Forma -ED (Pasiva/Estado) |
+| :--- | :--- |
+| **Activating** device (Disp. activador) | **Activated** device (Disp. activado) |
+| **Heating** device (Disp. de calentamiento) | **Heated** room (Habitación calentada) |
+| **Processing** data (Procesamiento de datos) | **Processed** data (Datos procesados) |
+| **Coding** sheets (Planillas de codificación) | **Coded** sheets (Planillas codificadas) |
+
+*(Referencia: [12])*
+
+---
+
+## 4. El Infinitivo con "TO" 🎯
+
+| Función | Ejemplo | Traducción |
+| :--- | :--- | :--- |
+| **Sujeto** | *To charge the capacitor is fundamental.* | **Cargar** el capacitor es fundamental. |
+| **Propósito** | *To charge the capacitor, the operators had to...* | **Para cargar** el capacitor, los operarios tuvieron que... |
+
+*(Referencia: [12])*
+
+---
+
+## 5. Estructura de la Frase Nominal Compleja 🏗️
+
+Para traducir correctamente, identifica primero el **Núcleo** (sustantivo principal). Todo lo que está a la izquierda lo premodifica, y lo que está a la derecha lo post-modifica.
+
+| Determinante | Premodificadores | NÚCLEO | Post-modificadores |
+| :--- | :--- | :--- | :--- |
+| The | resulting | **charge** | flowing in the circuit |
+| La | (resultante) | **carga** | (que fluye en el circuito) |
+
+**Traducción final:** La carga resultante que fluye en el circuito [13].
+
+---
+
+### 💡 Tips Pro para Ingeniería
+*   **Commissioning:** En contextos como Tesla Wall Connector, se refiere a la **"puesta en marcha"** o "comisionamiento" del equipo [14].
+*   **Operating modes:** Modos de operación [6].
+*   **Wiring techniques:** Técnicas de cableado [5].
+
+--------------------------------------------------------------------------------
